@@ -1,16 +1,22 @@
-### Hi there 👋
+## Hii Eu sou Jéssica Neves👋 
 
-<!--
-**jessicamdsn/jessicamdsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-💻 Estudante de tecnologia atrávez do Embarque Digital!
 
-Here are some ideas to get you started:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicamdsn&layout=compact&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jessicamdsn&theme=radical)](https://git.io/streak-stats)
+<img align="right" alt="gif" height="180" width="180" src="https://i.picasion.com/pic92/12264804a0ed8867c43e24b7bec24b35.gif">
+
+## Studying
+<div style="display: inline_block"><br>
+  <img align="center" alt="jess-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="jess-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="jess-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="jess-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+</div>
+
+
+ 
+
+  
+
