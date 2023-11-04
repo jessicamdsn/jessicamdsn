@@ -2,7 +2,7 @@
 
 -💻 Estudante de tecnologia atrávez do Embarque Digital!
 
--📱 Futura desenvolvedora Front-end!
+-📱 Desenvolvedora Front-end!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicamdsn&layout=compact&theme=radical)
 
