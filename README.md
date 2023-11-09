@@ -6,7 +6,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicamdsn&layout=compact&theme=radical)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jessicamdsn&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jessicamdsn&theme=radical)](https://git.io/streak-stats)
 <img align="right" alt="gif" height="180" width="180" src="https://i.picasion.com/pic92/12264804a0ed8867c43e24b7bec24b35.gif">
 
 ## Studying
