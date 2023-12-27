@@ -17,11 +17,7 @@
    <img align="center" alt="jess-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jessicamdsn/jessicamdsn/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jessicamdsn/jessicamdsn/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jessicamdsn/jessicamdsn/output/github-contribution-grid-snake.svg">
-</picture>
+
 
 ![snake gif](https://github.com/jessicamdsn/jessicamdsn/blob/output/github-user-contribution.svg)
 
