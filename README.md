@@ -1,5 +1,5 @@
 ## Hiii, Eu sou Jéssica Neves👋 
-<img align="right" alt="gif" height="150" width="150" src="https://i.picasion.com/pic92/12264804a0ed8867c43e24b7bec24b35.gif">
+<img align="right" alt="gif" height="130" width="130" src="https://i.picasion.com/pic92/12264804a0ed8867c43e24b7bec24b35.gif">
 
 -💻 Estudante de tecnologia atrávez do Embarque Digital!
 
