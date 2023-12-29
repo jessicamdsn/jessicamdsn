@@ -1,15 +1,19 @@
 ## Hiii, Eu sou Jéssica Neves👋 
+<img align="right" alt="gif" height="150" width="150" src="https://i.picasion.com/pic92/12264804a0ed8867c43e24b7bec24b35.gif">
 
 -💻 Estudante de tecnologia atrávez do Embarque Digital!
 
 -📱 Desenvolvedora Fullstack!
 
 -📌 Inglês avançado estudando de forma autonoma, com nota C1 no teste de nivelamento da TOEFL ITP.
+</br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicamdsn&layout=compact&theme=radical)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=jessicamdsn&theme=radical)](https://git.io/streak-stats)
-<img align="right" alt="gif" height="180" width="180" src="https://i.picasion.com/pic92/12264804a0ed8867c43e24b7bec24b35.gif">
+<div>
+<a href="https://github.com/gleyce-alves">
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicamdsn&layout=compact&theme=radical"/>
+<a href="https://git.io/streak-stats">
+<img height="170em" src="https://streak-stats.demolab.com?user=jessicamdsn&theme=radical" alt="GitHub Streak" /></a>
+</div>
 
 ## technologies I study
 <div style="display: inline_block">
