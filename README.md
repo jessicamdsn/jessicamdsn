@@ -1,5 +1,5 @@
 ## Hiii, Eu sou Jéssica Neves👋 
-<img align="right" alt="gif" height="130" width="130" src="https://i.picasion.com/pic92/12264804a0ed8867c43e24b7bec24b35.gif">
+<img align="right" alt="gif" height="120" width="120" src="https://i.picasion.com/pic92/12264804a0ed8867c43e24b7bec24b35.gif">
 
 -💻 Estudante de tecnologia atrávez do Embarque Digital!
 
@@ -15,7 +15,7 @@
 <img height="170em" src="https://streak-stats.demolab.com?user=jessicamdsn&theme=radical" alt="GitHub Streak" /></a>
 </div>
 
-## technologies I study
+## Technologies I study
 <div style="display: inline_block">
    <a href="#"><img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
     <a href="#"><img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
@@ -25,7 +25,7 @@
    <a href="#"><img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
 </div>
 
-
+## 
 
 ![snake gif](https://github.com/jessicamdsn/jessicamdsn/blob/output/github-user-contribution.svg)
 
