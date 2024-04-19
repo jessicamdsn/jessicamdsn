@@ -1,11 +1,11 @@
 # Hiii, Eu sou Jéssica Neves👋 
 <img align="right" alt="gif" height="110" width="110" src="https://i.picasion.com/pic92/12264804a0ed8867c43e24b7bec24b35.gif">
 
--💻 Estudante de tecnologia atrávez do Embarque Digital!
+-💻 Estudante de tecnologia através do Embarque Digital!
 
 -📱 Desenvolvedora Fullstack!
 
--📌 Inglês avançado estudando de forma autonoma, com nota C1 no teste de nivelamento da TOEFL ITP.
+-📌 Inglês avançado estudando de forma autônoma, com nota C1 no teste de nivelamento da TOEFL ITP.
 
 </br>
 
