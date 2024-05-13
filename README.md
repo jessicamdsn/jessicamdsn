@@ -1,6 +1,6 @@
 <img align="right" alt="gif" height="110" width="110" src="https://i.picasion.com/pic92/af0efff3a8cf3a4a3cd5a7f8b56a68de.gif">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F7565DFF&random=false&width=580&height=40&lines=%3Ch1%3E+Oie%2C+Eu+sou+J%C3%A9ssica+Neves+%3C%2Fh1%3E)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FF8997&random=false&width=580&height=40&lines=%3Ch1%3E+Oie%2C+Eu+sou+J%C3%A9ssica+Neves+%3C%2Fh1%3E)](https://git.io/typing-svg)
 
 -💻 Estudante de tecnologia através do Embarque Digital!!
 
