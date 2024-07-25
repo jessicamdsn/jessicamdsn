@@ -1,21 +1,20 @@
-<img align="right" alt="gif" height="110" width="110" src="https://i.picasion.com/pic92/af0efff3a8cf3a4a3cd5a7f8b56a68de.gif">
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FF8997&random=false&width=580&height=40&lines=%3Ch1%3E+Oie%2C+Eu+sou+J%C3%A9ssica+Neves+%3C%2Fh1%3E)](https://git.io/typing-svg)
+
+<div>
+<img align="left" alt="gif" height="310" width="310" src="img/img-ia.jpeg">
 
 -💻 Estudante de tecnologia através do Embarque Digital!!
 
 -📱 Desenvolvedora Fullstack!
 
 -📌 Inglês avançado estudando de forma autônoma, com nota C1 no teste de nivelamento da TOEFL ITP.
-
-</br>
-
-<div>
-<a href="https://github.com/jessicamdsn">
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicamdsn&layout=compact&theme=dark"/>
-<a href="https://git.io/streak-stats">
-<img height="170em" src="https://streak-stats.demolab.com?user=jessicamdsn&theme=dark" alt="GitHub Streak" /></a>
 </div>
+
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicamdsn&layout=compact&theme=dark"/>
+<img height="170em" align="center" src="https://streak-stats.demolab.com?user=jessicamdsn&theme=dark" alt="GitHub Streak" />
 
 ## Technologies I study
 <div style="display: inline_block">
