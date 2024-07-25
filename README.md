@@ -1,4 +1,4 @@
-<img align="right" alt="gif" height="200" width="200" src="img/img-ia.jpeg">
+<img align="right" alt="gif" height="220" width="220" src="img/img-ia.jpeg">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FF8997&random=false&width=580&height=40&lines=%3Ch1%3E+Oie%2C+Eu+sou+J%C3%A9ssica+Neves+%3C%2Fh1%3E)](https://git.io/typing-svg)
 
@@ -6,7 +6,8 @@
 
 -📱 Desenvolvedora Fullstack!
 
--📌 Inglês avançado estudando de forma autônoma, com nota C1 no teste de nivelamento da TOEFL ITP.
+-📌 Inglês avançado estudando de forma autônoma, <br>
+com nota C1 no teste de nivelamento da TOEFL ITP.
 
 </br>
 
