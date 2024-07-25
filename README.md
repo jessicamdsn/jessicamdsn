@@ -6,8 +6,7 @@
 
 -📱 Desenvolvedora Fullstack!
 
--📌 Inglês avançado estudando de forma autônoma, <br>
-com nota C1 no teste de nivelamento da TOEFL ITP.
+-📌 Inglês avançado estudando de forma autônoma, com nota C1 no teste <br> de nivelamento da TOEFL ITP.
 
 </br>
 
