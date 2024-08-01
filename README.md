@@ -25,12 +25,13 @@
 ## 
 
 <h3 align="center"> * Meu Portfolio * </h3>
-
-<div align="center">
-  <a href="https://github.com/jessicamdsn/meu-portfolio">
+<div align="center" >
+  <img src="https://media.giphy.com/media/O2oAJTVio7H6k9515N/giphy.gif" width="200" height="190" alt="Lofi Girl GIF" />
+  <a href="https://github.com/jessicamdsn/meu-portfolio" >
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jessicamdsn&repo=meu-portfolio&bg_color=0D1117&border_color=444&show_icons=true&icon_color=34A049&title_color=EB1F6A&text_color=ffffff" alt="Repo Card" />
   </a>
 </div>
+
 
 ## 
 
