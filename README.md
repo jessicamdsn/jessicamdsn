@@ -1,6 +1,6 @@
-<img align="right" alt="gif" height="210" width="210" src="img/img-ia.jpeg">
+<img align="right" alt="gif" height="220" width="220" src="img/img-ia.jpeg">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FF8997&random=false&width=580&height=40&lines=%3Ch1%3E+Oie%2C+Eu+sou+J%C3%A9ssica+Neves+%3C%2Fh1%3E)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=EB1F6A&random=false&width=580&height=40&lines=%3Ch1%3E+Oie%2C+Eu+sou+J%C3%A9ssica+Neves+%3C%2Fh1%3E)](https://git.io/typing-svg)
 
 -💻 Estudante de tecnologia através do Embarque Digital!!
 
@@ -10,12 +10,26 @@
 
 </br>
 
-<div>
+
+## 
+
+<div align="center">
 <a href="https://github.com/jessicamdsn">
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicamdsn&layout=compact&theme=dark"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicamdsn&layout=compact&bg_color=0D1117&border_color=444&show_icons=true&icon_color=34A049&title_color=EB1F6A&text_color=ffffff" />
 <a href="https://git.io/streak-stats">
-<img height="170em" src="https://streak-stats.demolab.com?user=jessicamdsn&theme=dark" alt="GitHub Streak" /></a>
+<img height="170em" src="https://streak-stats.demolab.com?user=jessicamdsn&background=0D1117&border=444&stroke=34A049&ring=EB1F6A&fire=EB1F6A&currStreakNum=34A049&sideNums=ffffff&currStreakLabel=EB1F6A&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
+</a>
 </div>
+
+## 
+
+<div align="center">
+  <a href="https://github.com/jessicamdsn/meu-portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jessicamdsn&repo=meu-portfolio&bg_color=0D1117&border_color=444&show_icons=true&icon_color=34A049&title_color=EB1F6A&text_color=ffffff" alt="Repo Card" />
+  </a>
+</div>
+
+
 
 ## Technologies I study
 <div style="display: inline_block">
