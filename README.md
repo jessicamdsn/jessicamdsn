@@ -10,8 +10,9 @@
 
 </br>
 
-
 ## 
+
+<h3 align="center"> * GitHub Stats * </h3>
 
 <div align="center">
 <a href="https://github.com/jessicamdsn">
@@ -23,15 +24,19 @@
 
 ## 
 
+<h3 align="center"> * Meu Portfolio * </h3>
+
 <div align="center">
   <a href="https://github.com/jessicamdsn/meu-portfolio">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jessicamdsn&repo=meu-portfolio&bg_color=0D1117&border_color=444&show_icons=true&icon_color=34A049&title_color=EB1F6A&text_color=ffffff" alt="Repo Card" />
   </a>
 </div>
 
+## 
 
+<h3> Tecnologias que estudo 🚀 </h3>
+</br>
 
-## Technologies I study
 <div style="display: inline_block">
     <a href="#"><img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/></a>
     <a href="#"><img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/></a>
