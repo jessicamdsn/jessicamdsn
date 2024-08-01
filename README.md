@@ -24,17 +24,6 @@
 
 ## 
 
-<h3 align="center"> * Meu Portfolio * </h3>
-<div align="center" >
-  <img src="https://media.giphy.com/media/O2oAJTVio7H6k9515N/giphy.gif" width="200" height="190" alt="Lofi Girl GIF" />
-  <a href="https://github.com/jessicamdsn/meu-portfolio" >
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jessicamdsn&repo=meu-portfolio&bg_color=0D1117&border_color=444&show_icons=true&icon_color=34A049&title_color=EB1F6A&text_color=ffffff" alt="Repo Card" />
-  </a>
-</div>
-
-
-## 
-
 <h3> Tecnologias que estudo 🚀 </h3>
 </br>
 
@@ -48,6 +37,17 @@
     <a href="#"><img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/></a>
     <a href="#"><img align="center" alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/></a>
 </div>
+
+## 
+
+<h3 align="center"> * Meu Portfolio * </h3>
+<div align="center" >
+  <img src="https://media.giphy.com/media/O2oAJTVio7H6k9515N/giphy.gif" width="200" height="190" alt="Lofi Girl GIF" />
+  <a href="https://github.com/jessicamdsn/meu-portfolio" >
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jessicamdsn&repo=meu-portfolio&bg_color=0D1117&border_color=444&show_icons=true&icon_color=34A049&title_color=EB1F6A&text_color=ffffff" alt="Repo Card" />
+  </a>
+</div>
+
 
 ## 
 
