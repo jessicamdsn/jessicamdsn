@@ -8,8 +8,6 @@
 
 -📌 Inglês avançado estudando de forma autônoma, com nota C1 no teste de <br> nivelamento da TOEFL ITP.
 
-</br>
-
 ## 
 
 <h3 align="center"> * GitHub Stats * </h3>
@@ -24,6 +22,7 @@
 
 ## 
 
+<div align="center">
 <h3> Tecnologias que estudo 🚀 </h3>
 </br>
 
@@ -37,10 +36,10 @@
     <a href="#"><img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/></a>
     <a href="#"><img align="center" alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/></a>
 </div>
+</div>
 
 ## 
 
-<h3 align="center"> * Meu Portfolio * </h3>
 <div align="center" >
   <img src="https://media.giphy.com/media/O2oAJTVio7H6k9515N/giphy.gif" width="200" height="190" alt="Lofi Girl GIF" />
   <a href="https://github.com/jessicamdsn/meu-portfolio" >
