@@ -4,7 +4,7 @@
 
 -💻 Estudante de tecnologia através do Embarque Digital!!
 
--📱 Desenvolvedora Fullstack!
+-📱 Desenvolvedora Front-End!
 
 -📌 Inglês avançado estudando de forma autônoma, com nota C1 no teste de <br> nivelamento da TOEFL ITP.
 
