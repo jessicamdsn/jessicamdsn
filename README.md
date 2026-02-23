@@ -2,9 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=EB1F6A&random=false&width=580&height=40&lines=%3Ch1%3E+Oie%2C+Eu+sou+J%C3%A9ssica+Neves+%3C%2Fh1%3E)](https://git.io/typing-svg)
 
--💻 Estudante de tecnologia através do Embarque Digital!!
-
 -📱 Desenvolvedora Front-End!
+
+-💻 Graduada em ADS através do Embarque Digital!!
 
 -📌 Inglês avançado estudando de forma autônoma, com nota C1 no teste de <br> nivelamento da TOEFL ITP.
 
